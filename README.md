@@ -7,3 +7,5 @@
 7.路由器配置  
 8.Android手机配置  
 9.Iphone手机配置  
+10.Chrome SS插件  
+11.Windows ShadowsockR  
