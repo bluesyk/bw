@@ -7,6 +7,7 @@
 7.路由器配置  
 8.Android手机配置  
 9.Iphone手机配置  
-10.Chrome SS插件   
-11.Windows ShadowsockR   
-12.Network Level Ad block(pi-hole)   
+10.Chrome SS插件   
+11.Windows ShadowsockR     
+12.Network Level Ad block(pi-hole)    
+不同级别的网络访问方式
