@@ -10,4 +10,6 @@
 10.Chrome SS插件   
 11.Windows ShadowsockR     
 12.Network Level Ad block(pi-hole)    
+13.Shadowsock负载均衡  
+14.Shadowsock二级转发或iptables转发  
 不同级别的网络访问方式
